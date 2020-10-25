@@ -1,0 +1,12 @@
+{
+  "name": "onetrade",
+  "displayName": "onetrade",
+  "expo": {
+    "name": "onetrade",
+    "slug": "onetrade",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
